@@ -1,12 +1,10 @@
-<h1 align="center">
+<h1 align="center"
   <br>
-  <a href="https://github.com/saiteja-madha"><img src="./docs/.gitbook/assets/strange.png" height="200" alt="Discord.js v14 Bot"></a>
-  <br>
-  Discord.js v14 Bot
+  Mod Meko
   <br>
 </h1>
 
-<p align="center">Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...</p>
+<p align="center">Cute mod for Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...</p>
 
 <br>
 
@@ -26,10 +24,9 @@
 
 ## 🔗 Resource Links
 
-- 🤖 Demo Bot: [Invite Here](https://discord.com/oauth2/authorize?client_id=1013236808353599488&permissions=397602323830&scope=bot%20applications.commands)
-- 🤝 Support Server: [Join Here](https://discord.gg/2gPy75zgbW)
+- 🤖 Demo Bot: [Invite Here](https://discord.com/api/oauth2/authorize?client_id=1076577779845435462&permissions=8&scope=bot%20applications.commands)
+- 🤝 Support Server: [Join Here](https://discord.gg/vUHMxPvege)
 - 📂 Documentation URL: [Visit Here](https://docs.strangebot.xyz)
-- 🐳 Docker Image: [Hub](https://hub.docker.com/r/saitejamadha/discord-js-bot)
 
 ## 📦 Prerequisites
 
@@ -42,8 +39,7 @@
 - Open the terminal and run the following commands
 
 ```
-git clone https://github.com/saiteja-madha/discord-js-bot.git
-cd discord-js-bot
+git clone https://github.com/hellofaizan/Meko
 npm install
 ```
 
@@ -58,10 +54,6 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 
 <h1 align="center"> ✨ Features ✨ </h1>
 
-### 📡 **Advanced Dashboard**
-
-- Manage your servers and make your server-specific settings!
-- Make custom adjustments easy!
 
 ### 🛑 **Powerful Moderation:**
 
@@ -152,6 +144,5 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 
 <h1 align="center"> 🤝 Contributing 🤝 </h1>
 
-- Special thanks to [@Androzz](https://github.com/Androz2091/AtlantaBot) for the [dashboard](https://github.com/Androz2091/AtlantaBot) and his other cool discord bot projects
-- Feel free to [Fork](https://github.com/saiteja-madha/discord-js-bot/fork) this repository, create a feature branch and submit a pull request
-- You can keep track of all the planned features [here](https://github.com/saiteja-madha/discord-js-bot/projects) or make a request for one at our discord
+- Feel free to [Fork](https://github.com/hellofaizan/Meko/fork) this repository, create a feature branch and submit a pull request
+- If you have any questions, feel free to join our [Discord Server](https://discord.gg/vUHMxPvege)
