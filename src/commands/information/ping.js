@@ -15,10 +15,10 @@ module.exports = {
   },
 
   async messageRun(message, args) {
-    await message.safeReply(`🏓 Pong : \`${Math.floor(message.client.ws.ping)}ms\``);
+    await message.safeReply(`🏓 I am God. i work on \`${Math.floor(message.client.ws.ping)}ms\``);
   },
 
   async interactionRun(interaction) {
-    await interaction.followUp(`🏓 Pong : \`${Math.floor(interaction.client.ws.ping)}ms\``);
+    await interaction.followUp(`🏓 I am God. i work on \`${Math.floor(interaction.client.ws.ping)}ms\``);
   },
 };
