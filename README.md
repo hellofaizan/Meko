@@ -26,7 +26,7 @@
 
 - 🤖 Demo Bot: [Invite Here](https://discord.com/api/oauth2/authorize?client_id=1076577779845435462&permissions=8&scope=bot%20applications.commands)
 - 🤝 Support Server: [Join Here](https://discord.gg/vUHMxPvege)
-- 📂 Documentation URL: [Visit Here](https://docs.strangebot.xyz)
+- 📂 Documentation URL: Comming Sooon.
 
 ## 📦 Prerequisites
 
